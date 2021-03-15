@@ -11,7 +11,7 @@ const scorePlayer2 = document.querySelector('#score--1')
 const currentScorePlayer1 = document.querySelector('#current--0')
 const currentScorePlayer2 = document.querySelector('#current--1')
 
-const score = 100 // if the score of the player is >= to the score value the player win
+const score = 100 // if the score of the player is >= of the score value this player win
 let isPlaying = true // Game State
 
 dice.style.display = 'none'
